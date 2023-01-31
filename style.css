@@ -1,6 +1,11 @@
 /* auth */
 body{
     margin: 0;
+    position: relative;
+}
+html, body{
+    overflow-x: hidden;
+
 }
 header{
     height: 60px;
